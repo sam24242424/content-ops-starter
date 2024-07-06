@@ -7,7 +7,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Welcome!
     text: >+
       National laminator Group carries a legacy of more than six decades.
       Established in 1999, Pratibha Printing Press is a 3rd generation business
