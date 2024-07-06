@@ -28,6 +28,15 @@ sections:
       presses, along with Single and Double colour machines.
 
     actions:
+      - label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
       - label: More
         altText: >-
           We have over the decades undergone a complete transformation in the
@@ -68,15 +77,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       altText: Unblock your team boost your time to production preview
       elementId: ''
