@@ -13,6 +13,14 @@
     },
     "primaryLinks": [
         {
+            "label": "Pricing",
+            "url": "/pricing",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
             "type": "Button",
             "label": "home",
             "altText": "We have over the decades undergone a complete transformation in the way we do business. Quality, Efficiency, Customer Delight, Competitive Costing and Professionalism are the Value Systems on which we work. Our client is at the centre of it all. So, apart from keeping in sync with the state-of-the-art printing technologies, we handhold our clients from conceptualization to delivery. Customer care and satisfaction remains our top priority, and we ensure that all needs are taken care of.We believe in providing a complete solution to our customers . We have a fully integrated set up with an inhouse Designing unit, Pre Press Unit, Printing Unit and Post Press Unit. All of this is under one roof. Quality excellence is what drives us and have been continually investing in the latest technologies. The ISO 9001:2008 accredited and NSIC certified press is equipped with the latest 4 colour ADAST CPC and Heidelberg automatic presses, along with Double and Single colour machines.Pratibha Printing Press also offers a range of value add post press techniques like holographic lamination, thermal lamination, 3D effects, UV coatings, 3D embossing, Gold/Silver foiling and screen-printing to finish the products.Pratibha Printing Press remains the flagship company of the Pratibha Group that also has diversified business interests in several sectors including Entertainment ,FMCG, Advisory, Real Estate and Construction. Today the group successfully runs Pratibha Cinema, Pratibha Printing Press, Pratibha Real Estate, Pratibha Enterprises and Pratibha Management Solutions in Lucknow.Our MissionTo efficiently provide quality printing solutions.Our VisionTo become the most preferred company that offers complete, superior printing and advertising solutions to people everywhere.Our ValuesPassion : We love what we do !Quality : What we do, we do well !Efficiency : Give your best, always !Customer Delight : Customer's satisfaction is our only motto !Integrity : Be Real and true to yourself !Professionalism : Be accountable to yourself !",
@@ -22,14 +30,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
-        },
-        {
-            "label": "Pricing",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         },
         {
             "label": "Blog",
