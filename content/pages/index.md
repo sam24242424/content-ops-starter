@@ -28,7 +28,7 @@ sections:
       presses, along with Single and Double colour machines.
 
     actions:
-      - label: Get started
+      - label: More
         altText: ''
         url: /
         showIcon: false
