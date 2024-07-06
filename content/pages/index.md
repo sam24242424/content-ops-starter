@@ -62,7 +62,7 @@ sections:
           motto !Integrity : Be Real and true to yourself !Professionalism : Be
           accountable to yourself !
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
