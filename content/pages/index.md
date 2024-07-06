@@ -400,21 +400,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - subtitle: Featured items section subtitle
-    items: []
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
   - title:
       text: Generic Section With A Form
       color: text-dark
