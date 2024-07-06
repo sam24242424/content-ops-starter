@@ -400,14 +400,7 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Featured items section subtitle
+  - subtitle: Featured items section subtitle
     items: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
