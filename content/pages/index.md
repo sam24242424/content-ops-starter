@@ -123,6 +123,7 @@ sections:
       - url: /images/papb.jpg
         altText: Sanity logo
         type: ImageBlock
+        elementId: ',,'
       - url: /images/rangle-logo.svg
         altText: Rangle logo
         type: ImageBlock
