@@ -103,7 +103,7 @@ sections:
       - altText: Wellster logo
         type: ImageBlock
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/pap.jpg
         altText: Image alt text placeholder
         elementId: ''
         styles:
