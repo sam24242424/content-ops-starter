@@ -99,7 +99,7 @@ sections:
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/pap.jpg
-        altText: ''
+        altText: paper bags printing
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
