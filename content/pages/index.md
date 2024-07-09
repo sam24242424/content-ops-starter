@@ -117,7 +117,7 @@ sections:
         altText: Rangle logo
         type: ImageBlock
     motion: static
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         justifyContent: center
