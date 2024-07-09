@@ -120,10 +120,6 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/papb.jpg
-        altText: Sanity logo
-        type: ImageBlock
-        elementId: ',,'
       - url: /images/rangle-logo.svg
         altText: Rangle logo
         type: ImageBlock
