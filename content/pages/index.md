@@ -117,7 +117,7 @@ sections:
             borderRadius: medium
       - altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/papb.jpg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
