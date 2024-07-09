@@ -109,7 +109,6 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/pap.jpg
         altText: Image alt text placeholder
         elementId: ''
         styles:
