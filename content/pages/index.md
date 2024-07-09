@@ -98,11 +98,11 @@ sections:
           - pr-16
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/pap.jpg
-        altText: Wellster logo
-        type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
+        type: ImageBlock
+      - url: /images/pap.jpg
+        altText: Wellster logo
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
