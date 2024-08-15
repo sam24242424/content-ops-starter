@@ -66,7 +66,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: S
     text: ''
     actions: []
     colors: bg-light-fg-dark
