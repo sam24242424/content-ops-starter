@@ -20,15 +20,6 @@ sections:
       meets the highest standards
 
     actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
       - label: More
         altText: >-
           We have over the decades undergone a complete transformation in the
