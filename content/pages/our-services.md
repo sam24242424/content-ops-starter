@@ -224,8 +224,6 @@ sections:
 
       13. Holograms.
 
-
-
     actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
