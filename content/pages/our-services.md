@@ -66,21 +66,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: >-
-      Stationery Printing ServicesThis includesDiariesSpiral PadsWiro PadsNote
-      PadsSketch PadsGift Wrap PapersRegistersNotebooksOffice Cobra FilesFile
-      and FoldersCommercial Printing ServicesThis
-      includesCalendarsPostersLablesStickersBunting (Foam and Paper)Hanging
-      DanglersPop DanglersMagazinesPamphletsBrochuresAnnual ReportsFoam
-      BannersVisual AidsSunpacksTin Plate PrintingBrand Rolls / Adhesives Tape
-      PrintingIdentity CardsPackaging Services and InnovationWe have diversified
-      into packaging solutions as well. Some of the products in this category
-      include the followingMono CartoonsCustomised Boxes and cartoonsPaper Carry
-      BagsOutdoor Media and Advertising ServicesWe have recently started
-      offering outdoor media and complete Advertising solutions services which
-      includes the followingWall PaintingsHoardingRoad SignagesStandeesFlex and
-      VinylInner SignagesLetter SignagesOut SignagesMDFTranslightOther Printing
-      ServicesOur other printing services include the followingJournals
+    subtitle: ''
     text: ''
     actions: []
     colors: bg-light-fg-dark
