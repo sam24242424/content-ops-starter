@@ -68,7 +68,7 @@ sections:
           textAlign: left
     subtitle: ''
     text: >+
-      1.  Stationery Printing Services
+      Stationery Printing Services
 
 
       This includes
