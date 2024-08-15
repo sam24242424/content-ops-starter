@@ -68,7 +68,7 @@ sections:
           textAlign: left
     subtitle: ''
     text: >+
-      #### Stationery Printing Services
+      1.  Stationery Printing Services
 
 
       This includes
@@ -102,8 +102,6 @@ sections:
 
 
       10. File and Folders
-
-
 
 
       #### Commercial Printing Services
@@ -173,12 +171,10 @@ sections:
       1.  Mono Cartoons
 
 
-      2.  Customised Boxes and cartoons
+      2.  Customized Boxes and cartoons
 
 
       3.  Paper Carry Bags
-
-
 
 
       #### Outdoor Media and Advertising Services
@@ -218,8 +214,6 @@ sections:
       10. Translight
 
 
-
-
       #### Other Printing Services
 
 
@@ -247,7 +241,7 @@ sections:
       7.  Catalogues
 
 
-      8.  Customised Corporate Attire Printing
+      8.  Customized Corporate Attire Printing
 
 
       9.  Shirts, T- shirts, Jackets, Caps, Track Suits, Sweat Shirts Printing
@@ -257,18 +251,13 @@ sections:
 
 
       11. Office Novelties Printing ( Key Rings, Paper Weights, Card Holders,
-      Planners etc)
+      Planners etc.)
 
 
       12. Corporate Gifting Range
 
 
-      13. Holograms
-
-
-      14.
-
-
+      13. Holograms.
 
     actions: []
     colors: bg-light-fg-dark
