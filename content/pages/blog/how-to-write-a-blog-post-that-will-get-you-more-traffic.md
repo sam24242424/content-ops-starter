@@ -94,7 +94,8 @@ styles:
   self:
     flexDirection: row
 ---
-#### 
+
+
 Stationery Printing Services
 
 This includes
@@ -118,8 +119,6 @@ This includes
 9.  Office Cobra Files
 
 10. File and Folders
-
-
 
 #### Commercial Printing Services
 
@@ -169,8 +168,6 @@ We have diversified into packaging solutions as well. Some of the products in th
 
 3.  Paper Carry Bags
 
-
-
 #### Outdoor Media and Advertising Services
 
 We have recently started offering outdoor media and complete Advertising solutions services which includes the following
@@ -194,8 +191,6 @@ We have recently started offering outdoor media and complete Advertising solutio
 9.  MDF
 
 10. Translight
-
-
 
 #### Other Printing Services
 
@@ -228,6 +223,4 @@ Our other printing services include the following
 13. Corporate Gifting Range
 
 14. Holograms
-
-
 
