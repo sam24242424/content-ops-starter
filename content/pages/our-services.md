@@ -56,40 +56,6 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: Social Media Management
-        tagline: Feature 1
-        subtitle: Increase your reach
-        text: |
-          St
-        image:
-          type: ImageBlock
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
 slug: Our services
 seo:
   type: Seo
