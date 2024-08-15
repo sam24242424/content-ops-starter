@@ -10,7 +10,20 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Section subtit
+    subtitle: >-
+      The team at Pratibha Printing Press, believes in delivering a delightful
+      experience to its customers. To achieve this, they ensure strict quality
+      checks and controls at every step. Print quality is maintained by a team
+      of experienced experts who work on the latest technology on Heildelberg
+      and Adast Dominant multi-coloured automatic machines.We believe in a good
+      presentation of the finished product, hence we offers a range of post
+      press techniques like holographic lamination, thermal lamination, 3D
+      effects, UV coatings, 3D embossing, Gold/Silver foiling and
+      screen-printing to finish the products.Apart from printing, the group has
+      recently diversified into outdoor media as well including Wall Paintings,
+      Hoarding, Standees, Flex, Vinyl, MDF, Translight, Road Signage, Inner
+      Signage, Out Signage, Letter Signage etc.Our Complete Range of Product and
+      Services have been listed below
     text: >
       There are many variations of passages of Lorem Ipsum available, but the
       majority have suffered alteration in some form, by injected humour, or
