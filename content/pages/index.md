@@ -9,15 +9,15 @@ sections:
       type: TitleBlock
     subtitle: Welcome!
     text: >+
-      ### National laminator carries a legacy of more than six decades.
-      Established in 1999, National laminator is a 2nd generation business house
-      and has evolved into one of the finest Print Solutions Company, based in
-      Lucknow. At National laminator, we transform ideas into tangible products
-      that make a lasting impression. Specializing in cutting-edge packaging
-      solutions and premium printing services, we cater to businesses of all
-      sizes looking to elevate their brand presence. Our commitment to quality,
-      innovation, and sustainability ensures that every project we undertake
-      meets the highest standards
+      ### ![](/images/ma.jpg)National laminator carries a legacy of more than
+      six decades. Established in 1999, National laminator is a 2nd generation
+      business house and has evolved into one of the finest Print Solutions
+      Company, based in Lucknow. At National laminator, we transform ideas into
+      tangible products that make a lasting impression. Specializing in
+      cutting-edge packaging solutions and premium printing services, we cater
+      to businesses of all sizes looking to elevate their brand presence. Our
+      commitment to quality, innovation, and sustainability ensures that every
+      project we undertake meets the highest standards
 
     actions:
       - label: More
