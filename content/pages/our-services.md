@@ -70,7 +70,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Li
+      text: ''
       color: text-primary
       styles:
         self:
