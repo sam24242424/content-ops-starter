@@ -9,23 +9,31 @@ sections:
       type: TitleBlock
     subtitle: Welcome!
     text: >+
-      National laminator Group carries a legacy of more than six decades.
-      Established in 1999, Pratibha Printing Press is a 3rd generation business
-      house and has evolved into one of the finest Print Solutions Company,
-      based in Lucknow. We have over the decades undergone a complete
-      transformation in the way we do business. Quality, Efficiency, Customer
-      Delight, Competitive Costing and Professionalism are the Value System on
-      which we work. Our client is at the centre of it all. So, apart from
-      keeping in sync with state-of-the-art printing technologies, we handhold
-      our clients from conceptualization to delivery. Customer care and
-      satisfaction is our top priority, and we ensure that all needs are taken
-      care of. We believe in providing a complete solution to our customers . We
-      have a fully integrated set up with an inhouse designing unit, Pre Press
-      Unit, Printing Unit and Post Press Unit. All of this is under one
-      roof.Quality excellence is what drives us and have been continually
-      investing in the latest technologies. The ISO 9001:2008 certified press is
-      equipped with the latest 4 colour Adast CPC and Heidelberg automatic
-      presses, along with Single and Double colour machines.
+      #### National laminator carries a legacy of more than six decades.
+      Established in 1999, National laminator is a 2nd generation business house
+      and has evolved into one of the finest Print Solutions Company, based in
+      Lucknow. At National laminator, we transform ideas into tangible products
+      that make a lasting impression. Specializing in cutting-edge packaging
+      solutions and premium printing services, we cater to businesses of all
+      sizes looking to elevate their brand presence. Our commitment to quality,
+      innovation, and sustainability ensures that every project we undertake
+      meets the highest standards
+
+
+      We have over the decades undergone a complete transformation in the way we
+      do business. Quality, Efficiency, Customer Delight, Competitive Costing
+      and Professionalism are the Value System on which we work. Our client is
+      at the center of it all. So, apart from keeping in sync with
+      state-of-the-art printing technologies, we handhold our clients from
+      conceptualization to delivery. Customer care and satisfaction is our top
+      priority, and we ensure that all needs are taken care of. We believe in
+      providing a complete solution to our customers . We have a fully
+      integrated set up with an inhouse designing unit, Pre Press Unit, Printing
+      Unit and Post Press Unit. All of this is under one roof. Quality
+      excellence is what drives us and have been continually investing in the
+      latest technologies. The ISO 9001:2008 certified press is equipped with
+      the latest Heidelberg automatic presses, along with Single and Double
+      color machines. 
 
     actions:
       - label: See Tutorials
