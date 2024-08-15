@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Welcome!
     text: |+
-      ### ![](/images/ma.jpg)
+      ![](/images/ma.jpg)
 
     actions:
       - label: More
