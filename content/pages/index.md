@@ -9,69 +9,42 @@ sections:
       type: TitleBlock
     subtitle: Welcome!
     text: >+
-      National laminator Group carries a legacy of more than six decades.
-      Established in 1999, Pratibha Printing Press is a 3rd generation business
-      house and has evolved into one of the finest Print Solutions Company,
-      based in Lucknow. We have over the decades undergone a complete
-      transformation in the way we do business. Quality, Efficiency, Customer
-      Delight, Competitive Costing and Professionalism are the Value System on
-      which we work. Our client is at the centre of it all. So, apart from
-      keeping in sync with state-of-the-art printing technologies, we handhold
-      our clients from conceptualization to delivery. Customer care and
-      satisfaction is our top priority, and we ensure that all needs are taken
-      care of. We believe in providing a complete solution to our customers . We
-      have a fully integrated set up with an inhouse designing unit, Pre Press
-      Unit, Printing Unit and Post Press Unit. All of this is under one
-      roof.Quality excellence is what drives us and have been continually
-      investing in the latest technologies. The ISO 9001:2008 certified press is
-      equipped with the latest 4 colour Adast CPC and Heidelberg automatic
-      presses, along with Single and Double colour machines.
+      We have over the decades undergone a complete transformation in the way we
+      do business. Quality, Efficiency, Customer Delight, Competitive Costing
+      and Professionalism are the Value System on which we work. Our client is
+      at the center of it all. So, apart from keeping in sync with
+      state-of-the-art printing technologies, we handhold our clients from
+      conceptualization to delivery. Customer care and satisfaction is our top
+      priority, and we ensure that all needs are taken care of. We believe in
+      providing a complete solution to our customers . We have a fully
+      integrated set up with an inhouse designing unit, Pre Press Unit, Printing
+      Unit and Post Press Unit. All of this is under one roof. Quality
+      excellence is what drives us and have been continually investing in the
+      latest technologies. The ISO 9001:2008 certified press is equipped with
+      the latest Heidelberg automatic presses, along with Single and Double
+      color machines.
+
+
 
     actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
       - label: More
         altText: >-
           We have over the decades undergone a complete transformation in the
           way we do business. Quality, Efficiency, Customer Delight, Competitive
-          Costing and Professionalism are the Value Systems on which we work.
-          Our client is at the centre of it all. So, apart from keeping in sync
-          with the state-of-the-art printing technologies, we handhold our
-          clients from conceptualization to delivery. Customer care and
-          satisfaction remains our top priority, and we ensure that all needs
-          are taken care of.We believe in providing a complete solution to our
-          customers . We have a fully integrated set up with an inhouse
-          Designing unit, Pre Press Unit, Printing Unit and Post Press Unit. All
-          of this is under one roof. Quality excellence is what drives us and
-          have been continually investing in the latest technologies. The ISO
-          9001:2008 accredited and NSIC certified press is equipped with the
-          latest 4 colour ADAST CPC and Heidelberg automatic presses, along with
-          Double and Single colour machines.Pratibha Printing Press also offers
-          a range of value add post press techniques like holographic
-          lamination, thermal lamination, 3D effects, UV coatings, 3D embossing,
-          Gold/Silver foiling and screen-printing to finish the
-          products.Pratibha Printing Press remains the flagship company of the
-          Pratibha Group that also has diversified business interests in several
-          sectors including Entertainment ,FMCG, Advisory, Real Estate and
-          Construction. Today the group successfully runs Pratibha Cinema,
-          Pratibha Printing Press, Pratibha Real Estate, Pratibha Enterprises
-          and Pratibha Management Solutions in Lucknow.Our MissionTo efficiently
-          provide quality printing solutions.Our VisionTo become the most
-          preferred company that offers complete, superior printing and
-          advertising solutions to people everywhere.Our ValuesPassion : We love
-          what we do !Quality : What we do, we do well !Efficiency : Give your
-          best, always !Customer Delight : Customer's satisfaction is our only
-          motto !Integrity : Be Real and true to yourself !Professionalism : Be
-          accountable to yourself !
+          Costing and Professionalism are the Value System on which we work. Our
+          client is at the center of it all. So, apart from keeping in sync with
+          state-of-the-art printing technologies, we handhold our clients from
+          conceptualization to delivery. Customer care and satisfaction is our
+          top priority, and we ensure that all needs are taken care of. We
+          believe in providing a complete solution to our customers . We have a
+          fully integrated set up with an inhouse designing unit, Pre Press
+          Unit, Printing Unit and Post Press Unit. All of this is under one
+          roof. Quality excellence is what drives us and have been continually
+          investing in the latest technologies. The ISO 9001:2008 certified
+          press is equipped with the latest Heidelberg automatic presses, along
+          with Single and Double color machines.
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
@@ -96,30 +69,39 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+      subtitle:
+        fontWeight: 700
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - altText: Vise logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
+      - altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
+      - type: ImageBlock
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - altText: Telus logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
+      - type: ImageBlock
+        url: /images/pap.jpg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
       - url: /images/rangle-logo.svg
         altText: Rangle logo
         type: ImageBlock
-    motion: move-to-left
+    motion: static
     colors: bg-light-fg-dark
     styles:
       self:
@@ -127,25 +109,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
