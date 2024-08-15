@@ -37,7 +37,7 @@ sections:
           press is equipped with the latest Heidelberg automatic presses, along
           with Single and Double color machines.
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
