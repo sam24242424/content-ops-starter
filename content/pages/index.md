@@ -20,7 +20,7 @@ sections:
       meets the highest standards
 
     actions:
-      - label: More..
+      - label: More
         altText: >-
           We have over the decades undergone a complete transformation in the
           way we do business. Quality, Efficiency, Customer Delight, Competitive
