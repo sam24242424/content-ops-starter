@@ -43,7 +43,7 @@ sections:
           investing in the latest technologies. The ISO 9001:2008 certified
           press is equipped with the latest Heidelberg automatic presses, along
           with Single and Double color machines.
-        url: /
+        url: /About
         showIcon: true
         icon: arrowRight
         iconPosition: right
