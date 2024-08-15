@@ -71,7 +71,7 @@ sections:
     title:
       type: TitleBlock
       text: Li
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center
